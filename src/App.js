@@ -3,29 +3,29 @@ import "./App.css";
 
 const sampleWordList = [
     {
-        word: "HELLO",
-        description: "A common greeting to say hi."
+        word: "KUBERNETES",
+        description: "An open-source system for automating deployment, scaling, and management of containerized applications."
     },
     {
         word: "WORLD",
         description: "The planet we live on, which is full of land and water."
     },
     {
-        word: "JAVASCRIPT",
+        word: "DEBUGGING",
         description: 
-"A popular programming language for building interactive websites and provides behaviour to applications."
+"The process of identifying and fixing errors in code to ensure a program works as intended."
     },
     {
-        word: "REACT",
-        description: "A Javascript library in which we have written this project code"
+        word: "FRONTEND",
+        description: "The part of a website or application that users interact with directly."
     },
     {
         word: "PROGRAMMING",
         description: "The process of developing code to assist computers to perform tasks."
     },
     {
-        word: "GEEKSFORGEEKS",
-        description: "An educational website for computer science 'geeks.'"
+        word: "GITHUB",
+        description: "A platform for version control and collaborative software development using Git."
     }
 ];
 
