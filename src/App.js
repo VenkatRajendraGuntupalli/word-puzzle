@@ -115,7 +115,7 @@ const WordGuessGame = () => {
 
     return (
         <div className="wrapper">
-            <h1 className="title">GeeksforGeeks Word Guess Game</h1>
+            <h1 className="title">Word Puzzle Game</h1>
             <div className="word-box">
                 {Array.from(currentWord.word).map((char, index) => (
                     <div
