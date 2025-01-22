@@ -5,8 +5,8 @@ This project is a **Word Puzzle Game** created with React, bootstrapped using [C
 ## **About the Project**
 
 The Word Puzzle Game is an interactive application designed to challenge players' vocabulary and puzzle-solving skills. Players can select characters, form words, and test their logic while having fun.
-<img width="1683" alt="image" src="https://github.com/user-attachments/assets/1a72cbbb-e252-4796-bb48-0803ae218bf2" />
 
+<img width="1702" alt="image" src="https://github.com/user-attachments/assets/ceb38b86-f20b-407c-944c-f7f70aa1e424" />
 
 ---
 
